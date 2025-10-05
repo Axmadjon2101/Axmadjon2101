@@ -30,20 +30,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusupovAxmadjon&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Axmadjon2101&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusupovAxmadjon&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Axmadjon2101&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusupovAxmadjon&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axmadjon2101&theme=react-dark" alt="activity graph"/>
 </p>
-
